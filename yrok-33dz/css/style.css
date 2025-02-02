@@ -1,0 +1,36 @@
+.blok1 {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.blok2 {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration-line: line-through;
+}
+
+.blok3 {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.blok4 {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    line-height: 30px;
+    word-spacing: 30px;
+    color: #401468;
+}
+
+.blok5 {
+    font-family: "Open Sans", serif;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 5px;
+}
